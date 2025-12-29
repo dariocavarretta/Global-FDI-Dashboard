@@ -10,3 +10,8 @@ The purpose of this public version is to demonstrate:
 the architecture of the Shiny dashboard,
 the workflow for data exploration,
 and how the tool can be easily adapted to other datasets.
+
+Live Demo
+A deployed version of the dashboard is available at:
+
+👉 https://l2ea7x-dario-cavarretta.shinyapps.io/dashboard/
