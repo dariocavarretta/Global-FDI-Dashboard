@@ -1,5 +1,5 @@
 This repository contains a Shiny application that replicates the structure and functionality of a dashboard originally developed for a European central bank.
-The dashboard provides an interactive and comprehensive overview of Greenfield FDI inflows into the United States, enabling quantitative researchers to explore trends across countries, sectors, and time.
+The dashboard provides an interactive and comprehensive overview of Greenfield FDI flows, enabling quantitative researchers to explore trends across countries, sectors, and time.
 
 Important: Synthetic Data
 All data included in this repository is AI-generated synthetic data, created solely from a written prompt with no access to the original confidential dataset.
