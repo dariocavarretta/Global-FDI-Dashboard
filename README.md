@@ -14,4 +14,5 @@ and how the tool can be easily adapted to other datasets.
 Live Demo
 A deployed version of the dashboard is available at:
 
-👉 https://l2ea7x-dario-cavarretta.shinyapps.io/dashboard/
+👉 https://l2ea7x-dario-cavarretta.shinyapps.io/global_FDI_dashboard/ 
+
